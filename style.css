@@ -1,4 +1,28 @@
 body{
-    text-align:center;
+    background-image: linear-gradient(90deg, black, red);
+    height: 100vh;
+    margin: 0;
+}
+h1{
+
+    width: 400px;
+    text-align: center;
+    margin: auto;
     
+    
+}
+a{
+    font-size: 1.3em;
+    text-decoration: none;
+    color: gold;
+}
+
+.container{
+    border: 2px solid black;
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    vertical-align: middle;
+    color: gold;
 }
